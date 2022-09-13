@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bhavya Yasraj R Chawda</h1>
+<h1 align="center">Hi 👋, I'm Bhavya Yasraj R Chawda , I am also know as INPLHA </h1>
 <h3 align="center">A passionate Electronics and Mixed signal IC design undergrad from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inplha&label=Profile%20views&color=0e75b6&style=flat" alt="inplha" /> </p>
