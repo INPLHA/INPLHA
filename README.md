@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Design of ADC, DAC, and adaptive filters**
 
-- 👯 I’m looking to collaborate on **RTL2GDSII flow various opensource IP**
+- 👯 I’m looking to collaborate on **RTL2GDSII flow of various opensource IP**
 
 - 🤝 I’m looking for help with **Basic electronics project, in digital & analog VLSI**
 
-- 📝 I write articles on [Electronics, RFIC, VLSI ,IEEE- SSCS,CAS,Comsoc](Electronics, RFIC, VLSI ,IEEE- SSCS,CAS,Comsoc)
+- 📝 I write articles on Electronics, RFIC, VLSI ,IEEE- SSCS,CAS,Comsoc
 
 - 📫 How to reach me **bhavyayasrajrc@gmail.com**
 
